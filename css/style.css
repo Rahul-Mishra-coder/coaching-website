@@ -263,6 +263,7 @@ nav a:focus {
 }
 .btn {
     margin: 30px auto;
+	text-align:center;
 }
 }
 .detail {
@@ -274,6 +275,7 @@ nav a:focus {
     font-size: 1em;
     margin: 0 0.5em;
     color: #fff;
+	list-decoration:none;
 }
 .indicate {
     float: right;
